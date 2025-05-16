@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JAYESH4122
-- 👀 I’m interested in flutter development
+- 👀 I’m interested in fullstack development
 - 🌱 I’m currently learning fluuter.
 - 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me jayeshpj412@gmail.com
